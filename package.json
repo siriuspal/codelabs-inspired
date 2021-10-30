@@ -2,7 +2,7 @@
     "name": "codelabs-inspired",
     "displayName": "codelabs-inspired",
     "description": "Google Codelabs inspired colour theme",
-    "publisher": "Sirius Pal",
+    "publisher": "SiriusPal",
     "version": "0.0.2",
     "engines": {
         "vscode": "^1.61.0"
