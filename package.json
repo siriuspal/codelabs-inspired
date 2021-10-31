@@ -3,7 +3,7 @@
     "displayName": "codelabs-inspired",
     "description": "Google Codelabs inspired colour theme",
     "publisher": "SiriusPal",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "repository": {
         "type": "github",
         "url": "https://github.com/siriuspal/codelabs-inspired"
@@ -20,6 +20,11 @@
                 "label": "Codelabs Inspired",
                 "uiTheme": "vs-dark",
                 "path": "./themes/codelabs-inspired-color-theme.json"
+            },
+            {
+                "label": "Codelabs Modified",
+                "uiTheme": "vs-dark",
+                "path": "./themes/codelabs-modified-color-theme.json"
             }
         ]
     }
