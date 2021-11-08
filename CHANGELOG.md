@@ -28,3 +28,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Modified
 
 - Moved images to assets.
+
+## [0.0.4] - 2021-11-08
+
+### Added
+
+- Added icon image
