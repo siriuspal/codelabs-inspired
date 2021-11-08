@@ -34,3 +34,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 
 - Added icon image
+
+
+## [0.0.5] - 2021-11-08
+
+### Modified
+
+- Modified icon image
