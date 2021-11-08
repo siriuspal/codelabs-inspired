@@ -4,7 +4,7 @@
     "description": "Google Codelabs inspired colour theme",
     "publisher": "SiriusPal",
     "version": "0.0.4",
-    "icon": "assets/image1.jpeg",
+    "icon": "assets/icon.jpg",
     "repository": {
         "type": "github",
         "url": "https://github.com/siriuspal/codelabs-inspired"
